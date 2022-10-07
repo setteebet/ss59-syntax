@@ -1,18 +1,18 @@
 {
   "name": "ss59-syntax",
   "theme": "syntax",
-  "version": "0.1.1",
-"description": "แอพruay✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
-"keywords": [
-"แอพruay",
-"หวยเศรษฐี",
-"lottovip ออนไลน์",
-"แทงหวยลาวออนไลน์",
-"แอพ lottovip เข้าไม่ได้"
-],
+  "version": "0.2.0",
+  "description": "แอพruay✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+  "keywords": [
+    "แอพruay",
+    "หวยเศรษฐี",
+    "lottovip ออนไลน์",
+    "แทงหวยลาวออนไลน์",
+    "แอพ lottovip เข้าไม่ได้"
+  ],
   "repository": "https://github.com/setteebet/ss59-syntax.git",
   "license": "MIT",
   "engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
